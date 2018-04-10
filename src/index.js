@@ -22,7 +22,7 @@ class App extends React.Component{
     }
 
     
-    //form event
+    //form event for testing
     formvaluefun= (e)=>{
         this.setState({
             initialbgcolor : this.state.color
