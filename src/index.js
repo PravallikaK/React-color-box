@@ -21,6 +21,8 @@ class App extends React.Component{
         });
     }
 
+    
+    //form event
     formvaluefun= (e)=>{
         this.setState({
             initialbgcolor : this.state.color
